@@ -1,0 +1,6 @@
+C:\Users\Betergeuse\source\repos\JsonBind\JsonBind\bin\Debug\JsonBind.dll
+C:\Users\Betergeuse\source\repos\JsonBind\JsonBind\bin\Debug\JsonBind.pdb
+C:\Users\Betergeuse\source\repos\JsonBind\JsonBind\obj\Debug\JsonBind.csprojAssemblyReference.cache
+C:\Users\Betergeuse\source\repos\JsonBind\JsonBind\obj\Debug\JsonBind.csproj.CoreCompileInputs.cache
+C:\Users\Betergeuse\source\repos\JsonBind\JsonBind\obj\Debug\JsonBind.dll
+C:\Users\Betergeuse\source\repos\JsonBind\JsonBind\obj\Debug\JsonBind.pdb
